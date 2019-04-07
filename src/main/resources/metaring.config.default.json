@@ -1,0 +1,5 @@
+{
+  "functionality": {
+    "controller": "com.metaring.framework.ext.functionality.vertx.VertxFunctionalityController"
+  }
+}
