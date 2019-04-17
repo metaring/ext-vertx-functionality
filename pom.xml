@@ -3,7 +3,7 @@
 
     <groupId>com.metaring</groupId>
     <artifactId>framework-ext-vertx-functionality</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>Core Vert.x Functionality Extension</name>
     <description>Core Extension - Vert.x Functionality Controller</description>
@@ -27,7 +27,7 @@
     <scm>
         <url>https://github.com/metaring/framework-ext-vertx-functionality.git</url>
         <developerConnection>scm:git:git@github.com:metaring/framework-ext-vertx-functionality.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v1.0.0</tag>
     </scm>
 
     <dependencies>
